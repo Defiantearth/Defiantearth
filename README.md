@@ -5,7 +5,7 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>Gavin Acosta</h1>
+    <h1 align="center">Gavin Acosta</h1>
 
    <p>about me</p>
 
