@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -74,6 +73,8 @@
       width="30px"
       style="padding-right: 10px"
     />
+
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Defiantearth&show_icons=true&theme=gruvbox)
 
   </body>
 </html>
