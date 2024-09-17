@@ -6,7 +6,7 @@
   <body>
     <h1 align="center">Gavin Acosta</h1>
 
-   <p>Gavin Acosta
+   <p>
 Hello! I'm Gavin Acosta, a 21-year-old from Lockport, Louisiana, with a passion for software development. I recently graduated from Nicholls State University where I studied Computer Science and Mathematics with a minor in Business, completing my degree a year and half early at the age of 20.
 
 Throughout my academic career, I developed strong skills in JavaScript, Node.js, Express.js, SQL, Java, C#, and C. These skills combined with my dedication and enthusiasm for coding have prepared me well for a career in the tech industry. I spend much of my free time working on various coding projects, continuously learning and honing my craft.
