@@ -8,9 +8,9 @@
   <body>
     <h1>Gavin Acosta</h1>
 
-    <p>about me</p>
+   <p>about me</p>
 
-    <h3>Languages and Tools</h3>
+   <h3>Languages and Tools</h3>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       align="left"
