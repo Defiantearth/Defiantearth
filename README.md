@@ -78,7 +78,7 @@
 
 #
 
-### Stats
+<h3>Stats</h3>
 
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Defiantearth&show_icons=true&theme=gruvbox)
 
