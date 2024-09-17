@@ -17,64 +17,67 @@ In addition to coding, I enjoy playing poker, which has taught me valuable lesso
 
 I'm currently seeking a job in software development where I can leverage my skills and experiences to make a positive impact on the tech industry. I am eager to contribute to innovative projects and collaborate with talented professionals to drive technological advancements.</p>
 
-   <h3>Languages and Tools</h3>
-    <img
+<h3>Languages and Tools</h3>
+
+##
+
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
       align="left"
       alt="Java"
       width="60px"
       style="padding-right: 10px"
     />
-    <img
+<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
       align="left"
       alt="Java"
