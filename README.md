@@ -88,6 +88,7 @@ I'm currently seeking a job in software development where I can leverage my skil
 <!-- End Images -->
 
 <br></br>
+<br></br>
 
 <h3>Stats</h3>
 
