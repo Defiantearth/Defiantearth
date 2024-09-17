@@ -17,8 +17,11 @@ In addition to coding, I enjoy playing poker, which has taught me valuable lesso
 
 I'm currently seeking a job in software development where I can leverage my skills and experiences to make a positive impact on the tech industry. I am eager to contribute to innovative projects and collaborate with talented professionals to drive technological advancements.</p>
 
-<h3>Languages and Tools</h3>
+ <h3>Languages and Tools</h3>
+        
+        
 ##
+
 <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
       align="left"
