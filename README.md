@@ -74,6 +74,8 @@
       style="padding-right: 10px"
     />
 
+<h1>Stats</h1>
+
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Defiantearth&show_icons=true&theme=gruvbox)
 
   </body>
