@@ -29,20 +29,6 @@ I'm currently seeking a job in software development where I can leverage my skil
       style="padding-right: 10px"
     />
 <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-      align="left"
-      alt="Java"
-      width="60px"
-      style="padding-right: 10px"
-    />
-<img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
-      align="left"
-      alt="Java"
-      width="60px"
-      style="padding-right: 10px"
-    />
-<img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
       align="left"
       alt="Java"
@@ -65,6 +51,20 @@ I'm currently seeking a job in software development where I can leverage my skil
     />
 <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+      align="left"
+      alt="Java"
+      width="60px"
+      style="padding-right: 10px"
+    />
+<img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+      align="left"
+      alt="Java"
+      width="60px"
+      style="padding-right: 10px"
+    />
+<img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
