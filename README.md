@@ -19,7 +19,6 @@ I'm currently seeking a job in software development where I can leverage my skil
 
  <h3>Languages and Tools</h3>
         
-        
 ##
 
 <img
@@ -91,6 +90,8 @@ I'm currently seeking a job in software development where I can leverage my skil
 <br></br>
 
 <h3>Stats</h3>
+
+##
 
 ![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Defiantearth&show_icons=true&theme=gruvbox)
 
