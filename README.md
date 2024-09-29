@@ -56,6 +56,13 @@ I'm currently seeking a job in software development where I can leverage my skil
       width="60px"
       style="padding-right: 10px"
     />
+    <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      align="left"
+      alt="Java"
+      width="60px"
+      style="padding-right: 10px"
+    />
 <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
       align="left"
@@ -64,7 +71,7 @@ I'm currently seeking a job in software development where I can leverage my skil
       style="padding-right: 10px"
     />
 <img
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
       align="left"
       alt="Java"
       width="60px"
@@ -85,13 +92,7 @@ I'm currently seeking a job in software development where I can leverage my skil
       style="padding-right: 10px"
     />
     
-<img 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      align="left"
-      alt="Java"
-      width="60px"
-      style="padding-right: 10px"
-    />
+
           
 
 <!-- End Images -->
