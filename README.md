@@ -9,7 +9,7 @@
    <p>
 Hello! I'm Gavin Acosta, a 21-year-old from Lockport, Louisiana, with a passion for software development. I recently graduated from Nicholls State University where I studied Computer Science and Mathematics with a minor in Business, completing my degree a year and half early at the age of 20.
 
-Throughout my academic career, I developed strong skills in JavaScript, Node.js, Express.js, SQL, Java, C#, and C. These skills combined with my dedication and enthusiasm for coding have prepared me well for a career in the tech industry. I spend much of my free time working on various coding projects, continuously learning and honing my craft.
+Throughout my academic career, I developed strong skills in JavaScript, Node.js, Express.js, SQL, AWS,  Java, C#, and C. These skills combined with my dedication and enthusiasm for coding have prepared me well for a career in the tech industry. I spend much of my free time working on various coding projects, continuously learning and honing my craft.
 
 During my time at Nicholls State University, I was actively involved in campus life. I served on the orientation team, helping new students acclimate to university life, and I held the position of Vice President of the TKE Mu Zeta fraternity where I developed my leadership and organizational skills.
 
@@ -84,6 +84,15 @@ I'm currently seeking a job in software development where I can leverage my skil
       width="60px"
       style="padding-right: 10px"
     />
+    
+<img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      align="left"
+      alt="Java"
+      width="60px"
+      style="padding-right: 10px"
+    />
+          
 
 <!-- End Images -->
 
